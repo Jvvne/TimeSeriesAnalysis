@@ -1,6 +1,7 @@
 # TimeSeriesAnalysis
 
 # Project Title: Analyzing and Forecasting MercadoLibre's Search Traffic and Stock Patterns
+![image](https://github.com/user-attachments/assets/e23da3f5-4a4c-4e57-8b71-9fe70c6ad1f1)
 
 ## Project Objective:
 As a Growth Analyst at MercadoLibre, the most popular e-commerce platform in Latin America, your task is to analyze the company's financial and user data in innovative ways to assist in its growth. Specifically, you'll explore whether predicting search traffic can translate into successful stock trading strategies.
